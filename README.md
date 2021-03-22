@@ -17,7 +17,7 @@
 
 Blockchainbird sponsors meaningful projects (see [Github repo](https://github.com/blockchainbird/spending) for more info). 
 
-2019 : https://smartcustody.btcpay.blockchaincommons.com
+2019 : https://smartcustody.btcpay.blockchaincommons.com ![](https://i.imgur.com/UjVYdBo.png)
 
 2020 :  Blockchaincommons.com general patronage
         DIF project KERI basic sponsoring of initiator of the project
