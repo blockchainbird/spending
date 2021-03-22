@@ -27,6 +27,7 @@ Blockchainbird sponsors meaningful projects (see [Github repo](https://github.co
 
 ## Contributions to third-party projects
 Apart from donations in money, we would always contribute work to stay closely involved. Our ultimate goal is to become an integral part of developments that make a better world.
+![](https://i.imgur.com/Eoq2BSV.png)
 
 See [Github repo](https://github.com/blockchainbird/spending) for more info on what we are specifically doing for third party project involved.
 
