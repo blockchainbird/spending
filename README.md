@@ -19,11 +19,11 @@ Blockchainbird sponsors meaningful projects (see [Github repo](https://github.co
 
 2019 : https://smartcustody.btcpay.blockchaincommons.com ![](https://i.imgur.com/UjVYdBo.png)
 
-2020 :  Blockchaincommons.com general patronage
+2020 :  Blockchaincommons.com general patronage ![](https://i.imgur.com/xlIONqq.png)
         DIF project KERI basic sponsoring of initiator of the project
         Blockchaincommons.com Torgap project
         
-2021 :  DIF project KERI?
+2021 :  DIF project KERI? ![](https://i.imgur.com/i8B86K6.png)
 
 ## Contributions to third-party projects
 Apart from donations in money, we would always contribute work to stay closely involved. Our ultimate goal is to become an integral part of developments that make a better world.
