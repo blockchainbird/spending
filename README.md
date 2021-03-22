@@ -19,7 +19,8 @@ Blockchainbird sponsors meaningful projects (see [Github repo](https://github.co
 
 2019 : https://smartcustody.btcpay.blockchaincommons.com ![](https://i.imgur.com/UjVYdBo.png)
 
-2020 :  Blockchaincommons.com general patronage ![](https://i.imgur.com/xlIONqq.png)
+2020 :  Blockchaincommons.com [sustaining patronage](https://www.blockchaincommons.com/#sustaining-sponsors) 
+![](https://i.imgur.com/xlIONqq.png)
         DIF project KERI basic sponsoring of initiator of the project
         Blockchaincommons.com Torgap project
         
@@ -35,6 +36,7 @@ See [Github repo](https://github.com/blockchainbird/spending) for more info on w
 
 #### Why we focus on *Digital Identity* to make a better world?
 Because the internet is broken and the way we people accept being treated by governments and big corps is sick. It all starts with truly *self sovereign identity* and it'll be damn hard to achieve.
+![](https://i.imgur.com/jAX3gU2.png)
 
 Why hard? Because it's not in the interest of those in power to give up power and opportunity, that'll end in a dystopia of totalitairianism and surveillance states. It might well take a few decades to sort this out. 
 
